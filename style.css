@@ -1,0 +1,170 @@
+/*Style for icons only side bar*/
+#MainWindow{
+    background-color: #ffffff;
+}
+#change_btn{
+    padding: 5px;
+    border: none;
+    width: 30px;
+    height: 30px;
+}
+#header_widget{
+    background-color: #f9fafd;
+}
+#icon_menu_widget{
+    background-color: #313a46;
+    width: 50px;
+    border-radius: 10px;
+}
+#icon_menu_widget QPushButton, QLabel{
+    height: 50px;
+    border: none;
+}
+#icon_menu_widget QPushButton:hover{
+     background-color: rgba(86, 101, 115, 0.5);
+}
+
+#logo{
+    padding: 5px;
+}
+/*****************************************************/
+/*Style for icons and text side bar*/
+
+#full_menu_widget{
+    background-color: #313a46;
+    border-radius: 20px;
+}
+#full_menu_widget QPushButton{
+    border: none;
+    border-radius: 3px;
+    text-align: left;
+    padding: 8px 0 8px 15px;
+    color: #788596;
+}
+#full_menu_widget QPushButton:hover{
+    background-color: rgba(86, 101, 115, 0.5);
+}
+#full_menu_widget QPushButton:checked{
+    background-color: #fff;
+}
+
+/*Style for logo image */
+
+#logo2{
+    padding: 5px;
+    color: #fff;
+}
+/*Style for logo name */
+
+#name{
+    padding-right: 10px;
+    color: #fff;
+}
+
+#search_btn{
+    border: none;
+}
+
+#search_box{
+    border: none;
+    padding: 5px 10px;
+    background-color: #faf7f7;
+}
+#search_box:focus{
+    background-color: #d8d8d8;
+}
+#profile_side{
+    border: none;
+}
+#notifications{
+    border: none;
+}
+#content_widget QPushButton{
+    background-color: #d10000;
+    font-size: 12cm;
+	border-radius: 5px;
+	color: #000000;
+}
+#page_2 QPushButton:hover{
+
+	background-color: #910000;
+    font-size: 15px;
+}
+#page_2 QPushButton:pressed{
+
+	padding-right: 10px;
+}
+#head_widg{
+    background-color: #313a46;
+    font-size: 12cm;
+	border-radius: 15px;
+	color: #fff;
+}
+#rumion{
+    background-color: #313a46;
+    font-size: 12cm;
+	border-radius: 20px;
+	color: #fff;
+}
+#belta{
+    background-color: #313a46;
+    font-size: 12cm;
+	border-radius: 20px;
+	color: #fff;
+}
+#chr{
+    background-color: #313a46;
+    font-size: 12cm;
+	border-radius: 20px;
+	color: #fff;
+}
+#corolla{
+    background-color: #313a46;
+    font-size: 12cm;
+	border-radius: 20px;
+	color: #fff;
+}
+#rush{
+    background-color: #313a46;
+    font-size: 12cm;
+	border-radius: 20px;
+	color: #fff;
+}
+#smart{
+    background-color: #313a46;
+    font-size: 12cm;
+	border-radius: 20px;
+	color: #fff;
+}
+#about_widget QPushButton{
+    border-radius: 10px;
+}
+#about_widget QPushButton:pressed{
+    padding-right: 10px;
+}
+#facebook:hover{
+    background-color: darkblue;
+}
+#twitter:hover{
+    background-color: blue;
+}
+#instagram:hover{
+    background-color: darkred;
+}
+#linkedin:hover{
+    background-color: midnightblue;
+}
+#about_page_widget{
+    background-color: #313a46;
+}
+#send_btn, #attach_btn, #emoji_btn{
+    background-color: #313a46;
+    font-family: "Segoe MDL2 Assets";
+}
+#send_btn:hover, #attach_btn:hover, #emoji_btn:hover{
+    background-color: #a8b7ca;
+    font-size: 16px;
+}
+#send_btn:pressed, #attach_btn:pressed, #emoji_btn:pressed{
+    padding-left: 10px;
+}

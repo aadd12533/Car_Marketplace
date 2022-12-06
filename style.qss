@@ -1,0 +1,80 @@
+/*Style for icons only side bar*/
+#MainWindow{
+    background-color: #d5d5d5;
+}
+#change_btn{
+    padding: 5px;
+    border: none;
+    width: 30px;
+    height: 30px;
+}
+#header_widget{
+    background-color: #f9fafd;
+}
+#icon_menu_widget{
+    background-color: #313a46;
+    width: 50px;
+}
+#icon_menu_widget QPushButton, QLabel{
+    height: 50px;
+    border: none;
+}
+#icon_menu_widget QPushButton:hover{
+     background-color: rgba(86, 101, 115, 0.5);
+}
+#logo{
+    padding: 5px;
+}
+/*****************************************************/
+/*Style for icons and text side bar*/
+
+#full_menu_widget{
+    background-color: #313a46;
+}
+#full_menu_widget QPushButton{
+    border: none;
+    border-radius: 3px;
+    text-align: left;
+    padding: 8px 0 8px 15px;
+    color: #788596;
+}
+#full_menu_widget QPushButton:hover{
+    background-color: rgba(86, 101, 115, 0.5);
+}
+#full_menu_widget QPushButton:checked{
+    background-color: #fff;
+}
+
+/*Style for logo image */
+
+#logo2{
+    padding: 5px;
+    color: #fff;
+}
+/*Style for logo name */
+
+#name{
+    padding-right: 10px;
+    color: #fff;
+}
+
+#search_btn{
+    border: none;
+}
+
+#search_box{
+    border: none;
+    padding: 5px 10px;
+}
+#search_box:focus{
+    background-color: #d8d8d8;
+}
+#profile_side{
+    border: none;
+}
+#notifications{
+    border: none;
+}
+#head_layout{
+
+}

@@ -1,0 +1,30 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>Icons/7337780431582534641-128.png</file>
+    <file>Icons/8527022301627270244-128.png</file>
+    <file>Icons/8588628601530177257-128.png</file>
+    <file>Icons/8720809901557740366-128.png</file>
+    <file>Icons/13041701241579605654-128.png</file>
+    <file>Icons/bell.png</file>
+    <file>Icons/envelope.png</file>
+    <file>Icons/eye.png</file>
+    <file>Icons/following.png</file>
+    <file>Icons/home.png</file>
+    <file>Icons/iconmonstr-delivery-8.svg</file>
+    <file>Icons/iconmonstr-user-circle-thin-240.png</file>
+    <file>Icons/info.png</file>
+    <file>Icons/marker.png</file>
+    <file>Icons/menu-burger.png</file>
+    <file>Icons/power.png</file>
+    <file>Icons/search.png</file>
+    <file>Icons/settings.png</file>
+    <file>Icons/sign-in-alt.png</file>
+    <file>Icons/sign-out-alt.png</file>
+    <file>Icons/toyota-car-logo-6961 (1).png</file>
+    <file>Icons/toyota-car-logo-6961.png</file>
+    <file>Icons/toyota-car-logo-6962-512x512.ico</file>
+    <file>Icons/toyota-car-logo-6964.png</file>
+    <file>Icons/user.png</file>
+    <file>Icons/wallpaperflare.com_wallpaper.jpg</file>
+  </qresource>
+</RCC>
